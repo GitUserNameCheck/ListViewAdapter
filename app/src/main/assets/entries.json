@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alice Johnson",
+    "phoneNumber": "+1234567890",
+    "avatar": "DOG"
+  },
+  {
+    "name": "Bob Smith",
+    "phoneNumber": "+1987654321",
+    "avatar": "BEAR"
+  },
+  {
+    "name": "Grace Wilson",
+    "phoneNumber": "+1999777888",
+    "avatar": "BEAR"
+  },
+  {
+    "name": "Henry Taylor",
+    "phoneNumber": "+1444666999",
+    "avatar": "FOX"
+  },
+  {
+    "name": "Ivy Johnson",
+    "phoneNumber": "+1222333444",
+    "avatar": "JOKER"
+  },
+  {
+    "name": "Jack Robinson",
+    "phoneNumber": "+1333444555",
+    "avatar": "MAYA"
+  },
+  {
+    "name": "Charlie Brown",
+    "phoneNumber": "+1555123456",
+    "avatar": "FOX"
+  },
+  {
+    "name": "David Williams",
+    "phoneNumber": "+1650432198",
+    "avatar": "JOKER"
+  },
+  {
+    "name": "Eva Davis",
+    "phoneNumber": "+1777333444",
+    "avatar": "MAYA"
+  },
+  {
+    "name": "Frank Miller",
+    "phoneNumber": "+1888444555",
+    "avatar": "DOG"
+  }
+]
